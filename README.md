@@ -72,8 +72,7 @@
   <h2>About</h2>
 
   <p>
-    I'm a problem solver at heart, driven by creativity and a passion for building clean, efficient, and engaging digital experiences.  
-    My goal is to continue evolving as a <strong>front-end</strong> and <strong>full-stack developer</strong> — and eventually pursue my dream of <strong>game development</strong>.
+    I specialize in front-end web development, focusing on JavaScript, responsive UI design, and performance optimization. My current learning path includes back-end technologies and game development frameworks to broaden my technical expertise and build immersive user experiences from the ground up.
   </p>
 
   ---
