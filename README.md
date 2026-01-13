@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <a href="https://weatherapp.infinityfreeapp.com" target="_blank">
+    <a href="https://danielramos-softwaredevelopment.github.io/website/" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Live_Demo-22c55e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo Badge"/>
     </a>
   </p>
